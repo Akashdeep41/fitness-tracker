@@ -1,0 +1,6 @@
+{
+  "name": "Custom Meal Planner",
+  "description": "An Android app to generate fully customizable meal plans based on dietary restrictions and user preferences using Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
